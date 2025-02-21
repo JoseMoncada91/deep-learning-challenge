@@ -10,9 +10,11 @@ Files in This Repository
 
 AlphabetSoupCharity_Optimization.h5 - The trained and saved deep learning model.
 
-Starter_Code.ipynb - Jupyter Notebook containing the data preprocessing, model creation, training, evaluation, and optimization steps.
+Starter_Code.ipynb - Jupyter Notebook containing data preprocessing, model creation, training, evaluation, and optimization steps.
 
 README.md - Project documentation (this file).
+
+Report on the Neural Network Model.docx - A detailed report on the deep learning model.
 
 Steps Completed
 
@@ -50,7 +52,7 @@ Instructions for Running the Model
 
 Ensure Python is installed along with TensorFlow, Pandas, and Scikit-learn.
 
-Run the Jupyter Notebook (alphabet_soup_nn.ipynb) to train and evaluate the model.
+Run the Jupyter Notebook (Starter_Code.ipynb) to train and evaluate the model.
 
 The final trained model is saved as AlphabetSoupCharity_Optimization.h5 and can be loaded for future predictions.
 
@@ -60,6 +62,8 @@ The saved model file is located in the same directory as the project files.
 
 The model was optimized for improved accuracy compared to the initial baseline model.
 
+I've included in GitHub a Word document with the report named Report on the Neural Network Model.docx.
+
 Contact
 
-For any questions or clarifications, please reach out to Jose Moncada.
+For any questions or clarifications, please reach out to Jose Moncada
