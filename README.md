@@ -32,15 +32,16 @@ Improved the model performance from the baseline.
 Model Export:
 Saved the trained model to an HDF5 file (AlphabetSoupCharity_Optimization.h5).
 
+Notes
+The saved model file is located in the same directory as the project files.
+Despite multiple optimization attempts and consulting with ChatGPT, the model did not reach the target accuracy of 75%. The final model achieved around 73.2% accuracy.
+The model was optimized for improved accuracy compared to the initial baseline model.
+I've included in GitHub a Word document with the report named Report on the Neural Network Model.docx.
+
 Instructions for Running the Model
 Ensure Python is installed along with TensorFlow, Pandas, and Scikit-learn.
 Run the Jupyter Notebook (AlphabetSoupCharity_Optimization.ipynb) to train and evaluate the model.
 The final trained model is saved as AlphabetSoupCharity_Optimization.h5 and can be loaded for future predictions.
-
-Notes
-The saved model file is located in the same directory as the project files.
-The model was optimized for improved accuracy compared to the initial baseline model.
-I've included in GitHub a Word document with the report named Report on the Neural Network Model.docx.
 
 Contact
 For any questions or clarifications, please reach out to Jose Moncada
